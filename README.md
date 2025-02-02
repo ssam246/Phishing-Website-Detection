@@ -36,8 +36,7 @@ Seventeen features are extracted from the dataset across three categories:
 3. **HTML & JavaScript-Based Features**  
    - **4 features** extracted, analyzing scripts, iframe usage, and suspicious tags.
 
-The combined 10,000 URLs and extracted features are stored in the file:  
-`[5.urldata.csv](Phishing-Website-Detection-by-Machine-Learning-Techniques-master/Phishing Website Detection/DataFiles/5.urldata.csv)`.  
+The combined 10,000 URLs and extracted features are stored in the file.
 
 Features were referenced from the [UCI Phishing Websites Dataset](https://archive.ics.uci.edu/ml/datasets/Phishing+Websites).
 
@@ -87,7 +86,7 @@ To set up and run this project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/ssam246/Phishing-Website-Detection
    cd Phishing-Website-Detection
    ```
 
